@@ -1,0 +1,62 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    color: rgb(68, 66, 66);
+    line-height: 40px;
+    padding: 0.5rem;
+}
+h1 {
+    background-color: rgb(214, 36, 36);
+    color: rgb(100, 11, 11);
+    padding: 10px;
+    margin: 0%;
+}
+#tarja {background-color: rgb(214, 36, 36);
+    color: rgb(100, 11, 11);
+    padding: 10px;
+    margin: 0%;
+    margin-top: 40px;
+}
+.centralizar {
+text-align: center;
+}
+.btn {
+    background-color: rgb(214, 36, 36);
+    color: rgb(100, 11, 11);
+    text-decoration: none;
+    padding: 15px 32px;
+    border-radius: 10px;
+    font-size: 20px;
+}  
+.btn:hover {
+    background-color: rgba(214, 36, 36, 0.829);
+}
+#h1doheader {
+    background-color: rgb(214, 36, 36);
+    color: rgb(100, 11, 11);
+    padding: 10px;
+    margin: auto;
+    margin-top: 0%;
+    text-align: center;
+}
+#bodydoheader {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    color: rgb(68, 66, 66);
+    line-height: 40px;
+    padding: 0.5rem;
+    text-align: center;
+}
+#h2domenu {
+    background-color:rgb(214, 36, 36); 
+    color: rgb(100, 11, 11);
+    padding: 10px;
+    margin: auto;
+    }
+#borda {
+    border-style: outset;
+    border-color: rgba(214, 36, 36, 0.589);
+}
+    
